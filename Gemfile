@@ -59,4 +59,7 @@ gem "refile", require: "refile/rails", github: 'manfe/refile'
 
 gem "refile-mini_magick"
 
-gem 'wdm', '>= 0.1.0'
+# gem 'wdm', '>= 0.1.0'
+
+gem 'bootstrap', '~> 4.5'
+gem 'jquery-rails'
